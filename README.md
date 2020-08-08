@@ -1,10 +1,11 @@
 ### Hey there, I'm Pascal 👋
-<br>
-I'm currently studying computer science as a bachelor's degree in Germany.
-<br>
-Besides studying I'm currently working at a local company in the area of Web Development.
-<br>
-I am also actively developing a browser extension for "PiHole" which you can find [here][pihole-extension].
+
+
+##### I'm currently studying computer science as a bachelor's degree in Germany.
+
+👉🏽  Besides studying I'm currently working at a local company in the area of Web Development.
+
+👉🏽  I am also actively developing a browser extension for "PiHole" which you can find [here][pihole-extension].
 
 ### Languages and Tools:
 
