@@ -1,5 +1,10 @@
 ### Hey there, I'm Pascal 👋
-
+<br>
+I'm currently studying computer science as a bachelor's degree in Germany.
+<br>
+Besides studying I'm currently working at a local company in the area of Web Development.
+<br>
+I am also actively developing a browser extension for "PiHole" which you can find [here][pihole-extension].
 
 ### Languages and Tools:
 
@@ -16,3 +21,5 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+[pihole-extension]:https://github.com/badsgahhl/pihole-browser-extension
