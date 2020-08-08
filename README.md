@@ -11,7 +11,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Intellij Idea" width="26px" src="https://png2.kisspng.com/dy/fb29999afd2c4cb0bdb68b0dedd9651a/L0KzQYm3VcE5N6dAepH0aYP2gLBuTflvfJZxhNtzLXnndbK0if51bZh3eeZuZD3ndcfsjP9xdZZzjJ9ubobsgrF1jfVvfF5oRadqZnXlSYa3UMgxOZM6RqcEN0W5QoG4UcUzPmc5S6I7NEC2Qom1kP5o/kisspng-intellij-idea-integrated-development-environment-c-5afeb9500801b5.5975620115266430240328.png" />
+<img align="left" alt="Intellij Idea" width="26px" src="https://raw.githubusercontent.com/badsgahhl/icon/idea.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
